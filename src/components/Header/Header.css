@@ -1,0 +1,7 @@
+.backgroundImg {
+  background-image: url("../../img/group1.png");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 533px;
+}
